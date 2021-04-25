@@ -1,0 +1,15 @@
+.box{
+    margin-bottom: 10px;
+    border: 1px solid;
+    min-height: 100px;
+    background-color: #00f;
+    font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+}
+.box p a{
+    display: block;
+    margin: 31px 0;
+    color: white;
+    text-decoration: none;
+}
